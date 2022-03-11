@@ -2643,9 +2643,7 @@ input, select, textarea {
 			.image.main:first-child {
 				margin-top: 0;
 			}
-			.image.main p {
-				text-align: center;
-			}
+		
 
 			.image.main img {
 				display: block;
